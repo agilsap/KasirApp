@@ -6,7 +6,12 @@ body {
 }
 
 .navbar {
-  background-color: #226682;
+  background-color: #22668a;
+}
+
+.category-aktif {
+  background-color: #22668a;
+  color: white;
 }
 
 code {
